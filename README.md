@@ -1,6 +1,6 @@
-# This GitHub repository was created to help graduate students in GPHY 504 learn how to use code repositories to collaborate and work together on large scale data projects! GitHub is a wildly 
-# powerful tool, that when used correctly, can foster collaboration and creation among many scientists. If you are like me (me being MSc student Maddie Beck), understanding what exactly GitHub is 
-# doing can be a bit difficult. So, let's start with the basics.
+#This GitHub repository was created to help graduate students in GPHY 504 learn how to use code repositories to collaborate and work together on large scale data projects! GitHub is a wildly 
+#powerful tool, that when used correctly, can foster collaboration and creation among many scientists. If you are like me (me being MSc student Maddie Beck), understanding what exactly GitHub is 
+#doing can be a bit difficult. So, let's start with the basics.
 
 ## Markdown Files:
 What are you looking at right now? In GitHub, it looks just like a description of the code that we will be using. You might look and see that this file is called "README.md". All good GitHub 
