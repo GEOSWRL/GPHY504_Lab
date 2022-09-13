@@ -28,26 +28,29 @@ this work to your own storage, feel free to navigate to your Desktop.
 * Once you have typed enough characters to differentiate the new location from any other folder on your computer, you can press the "tab" button on your computer to autopopulate the rest and save 
 you time
 * Press enter and you should be changed to to a new directory. Mine is now (base) CLS2019095:OneDrive - Montana State University f6____$
-1. Now, lets create a new folder within your new directory:
+4. Now, lets create a new folder within your new directory:
 * Use the "mkdir" command (make directory, mkdir) and use a descriptive name
 * $ mkdir 504_GitHub_Lab
-1. Check to make sure your new directory is there: 
+5. Check to make sure your new directory is there: 
 * $ ls
-*If at any point you need to delete a directory, say you made a type, use "$ rm -r DirectoryName"*
-1. Navigate to your new directory: 
+* If at any point you need to delete a directory, say you made a type, use "$ rm -r 
+DirectoryName"*
+6. Navigate to your new directory: 
 * $ cd 504_GitHub_Lab
 
 ## Now comes the fun!
 
 1. Now we want to clone the GitHub repository into our new folder. To do so, got back to repository on your browser. Press the green button that says "Code" and copy the SSH path
-1. Now, back in your terminal window, use the following code: $ git clone SSHPath
+1. Now, back in your terminal window, use the following code:
+$ git clone SSHPath
 * You should see updates for the data cloning into your directory. Once done, if you press ls you should see a new folder called "GPHY504_Lab"
-1. Change your directory to the new folder just created and view the list of contents
-1. Open the markdown file, the same one you are viewing now on your browser using the command $ nano README.md
-1. Now you should be viewing the md file in your own terminal! How cool!! 
+3. Change your directory to the new folder just created and view the list of contents
+4. Open the markdown file, the same one you are viewing now on your browser using the command $ 
+nano README.md
+5. Now you should be viewing the md file in your own terminal! How cool!! 
 
 ## Add your name here: 
-*If you run out of "1." add your own followed by your name*
+*If you run out of "1." add your own followed by your name!*
 1. Maddie
 1. 
 1.
