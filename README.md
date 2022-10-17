@@ -29,7 +29,7 @@ To get started with this lab, follow the steps below:
 ## Add your name here: 
 *If you run out of "1." add your own followed by your name!*
 1. Maddie
-1.
+1. Maddie 20221017
 1.
 1.
 1. 
