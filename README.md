@@ -44,3 +44,11 @@ To get started with this lab, follow the steps below:
 1. $ git push origin main
 
 ## That should have worked. Refresh your browser and make sure the GitHub read me file updated.
+
+## How cool! Do you see your name? This is just a short example highlighting how working in GitHub can be an amazing, collaborative work experience. However, GitHub has many other benefits. Let's explore a few.
+
+1. You should see two other contents of the "GPHY504_Lab". One named "Baseball_Decades.csv" and the other "Lab00_Fall2022.ipynb". We are going to work with these two files. 
+1. Right click on the .ipynb file Lab00. Click copy, and then press paste in the contents of the GPHY504_Lab folder. Give it a descriptive name such as "Maddie Lab 00". 
+1. Double click on your newly created .ipynb to open it, and start working through the lab. Make sure to answer the questions within the .ipynb!
+1. Once you are done, make sure to save your .ipynb. Click on "file" in the upper left and download your notebook. You will turn this in for your lab!
+1. Next, navigate back to your terminal window, and use the same steps as above to add your changes back to the original lab. Refresh the GitHub page to make sure your changes were saved. 
