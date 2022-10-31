@@ -2,6 +2,7 @@
 GitHub is a wildly 
 powerful tool, that when used correctly, can foster collaboration and creation among many scientists. If you are like me (me being MSc student Maddie Beck), understanding what exactly GitHub is 
 doing can be a bit difficult. So, let's start with the basics.
+<img src='/Users/f67f911/Desktop/GPHY504_Lab/Screen Shot 2022-10-31 at 8.51.43 AM.png'>
 
 ## Markdown Files:
 What are you looking at right now? In GitHub, it looks just like a description of the code that we will be using. You might look and see that this file is called "README.md". All good GitHub repositories have one, because without a description of what your code does, your viewers, collaborators, friends, mentors, and randos on the internet will have NO idea what you are doing. However, markdown (.md) files are not simply just text as they may appear. In fact, they are a powerful tool in themselves and have many shortcuts in order to organize your code descriptions. The first step 
